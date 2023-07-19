@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "file-system": "^2.2.2",
+    "file-system-db": "^2.0.0",
+    "list_end_points": "^2.0.6"
+  }
+}
